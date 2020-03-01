@@ -1,3 +1,3 @@
 # solidproject.cn
-Website for solidproject.
-solidproject.org 中文版
+
+solidproject.org 网站中文版
